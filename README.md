@@ -1,11 +1,12 @@
 # MYSQL-Powerbi-project
 A Power BI dashboard for a coffee shop, providing insights into sales, customer trends, and inventory management. Integrated with MySQL for real-time data analysis and reporting.
 
-#Objective:
+# Objective:
 To develop a Power BI dashboard for a coffee shop, leveraging MySQL for data storage and management. The dashboard provides actionable insights into sales performance, customer preferences, and inventory levels, helping the business make data-driven decisions.
 
-#Problem Statement
-##KPI’S REQUIREMENT 
+# Problem Statement
+
+## KPI’S REQUIREMENT 
 1.	Total sales analysis
 	Calculate the total sales for each respective months 
 	Determine the month-on-month increases or decreases
@@ -19,7 +20,7 @@ To develop a Power BI dashboard for a coffee shop, leveraging MySQL for data sto
 	Determine the month-on-month increases or decreases in the total quantity sold 
 	Calculate the difference in the total quantity sold between the selected month and the previous month .
 
-##CHARTS REQUIREMENT 
+## CHARTS REQUIREMENT 
 1.	Calendar heat map
 	Implement a calendar heat map that dynamically adjusts based on the selected month from a slicer.
 	Each day on the calendar will be color-coded to represent sales volume , with darker shades indicating higher sales.
