@@ -4,6 +4,10 @@ A Power BI dashboard for a coffee shop, providing insights into sales, customer 
 # Objective:
 To develop a Power BI dashboard for a coffee shop, leveraging MySQL for data storage and management. The dashboard provides actionable insights into sales performance, customer preferences, and inventory levels, helping the business make data-driven decisions.
 
+## dataset
+
+https://github.com/Tanu20-Yadav/MYSQL-Powerbi-project/blob/main/Coffee%20Shop%20Sales.xlsx
+
 # Problem Statement
 
 ## KPI’S REQUIREMENT 
@@ -50,9 +54,20 @@ To develop a Power BI dashboard for a coffee shop, leveraging MySQL for data sto
 ## Key Insights from the Coffee Shop Dashboard
 
 Sales Performance & Trends: Identify peak months, track MoM sales growth or decline, analyze daily sales patterns, and compare weekday vs. weekend sales.
+
 Order & Quantity Analysis: Monitor total orders, quantity sold, MoM trends, and detect high and low demand periods.
+
 Store Performance Analysis: Compare sales across locations, track MoM trends, and identify growing or declining stores.
+
 Product & Category Insights: Discover top-selling products, analyze category contributions, and detect underperforming items.
+
 Customer Behavior & Buying Patterns: Identify peak sales hours and days, track purchase trends, and optimize staffing and promotions.
+
 Data Visualization Insights: Utilize calendar heat maps, daily sales charts, and hourly heat maps to quickly spot trends and anomalies.
-This dashboard enables data-driven decisions to boost sales, optimize inventory, and enhance customer experience. 📊☕🚀
+
+This dashboard enables data-driven decisions to boost sales, optimize inventory, and enhance customer experience.
+
+
+## Dashboard 
+![Screenshot 2025-02-05 144725](https://github.com/user-attachments/assets/8fb7f47b-453d-42f7-93f3-a18a682bc7cd)
+
